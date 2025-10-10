@@ -31,7 +31,7 @@ Aquí se incluyen las evidencias semanales, enlaces a materiales de apoyo y el d
 
 | **Descripción** | **Link de acceso** |
 |------------------|--------------------|
-| Tutorial 1: Construir un mundo a través de TileMap| [Ver tutorial](#https://docs.google.com/document/d/1sHsoZT6sYddfBfE6Hakl_1MfwGJTQMhN/edit?usp=sharing&ouid=111606551767312159721&rtpof=true&sd=true) |
+| Tutorial 1: Construir un mundo a través de TileMap| [Ver tutorial](https://docs.google.com/document/d/1sHsoZT6sYddfBfE6Hakl_1MfwGJTQMhN/edit?usp=sharing&ouid=111606551767312159721&rtpof=true&sd=true) |
 | Tutorial 2: Creación de sprites y fondos | [Ver tutorial](#) |
 | Tutorial 3: Programación de controles básicos | [Ver tutorial](#) |
 | Tutorial 4: Sistema de puntuación y vidas | [Ver tutorial](#) |
