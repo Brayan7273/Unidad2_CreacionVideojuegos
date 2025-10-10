@@ -19,9 +19,9 @@ Aquí se incluyen las evidencias semanales, enlaces a materiales de apoyo y el d
 
 | **Descripción** | **Link de acceso** |
 |------------------|--------------------|
-| Actividad 1: Introducción al entorno de desarrollo de videojuegos | [Ver actividad](#) |
+| Actividad 1: Personaje con Movimiento | [Ver actividad](#) |
 | Actividad 2: Diseño de personajes 2D | [Ver actividad](#) |
-| Actividad 3: Lógica básica de movimiento | [Ver actividad](#) |
+| Actividad 3: Tutorial  | [Ver actividad](#) |
 | Actividad 4: Implementación de colisiones | [Ver actividad](#) |
 | Actividad 5: Exportación del proyecto final | [Ver actividad](#) |
 
@@ -31,7 +31,7 @@ Aquí se incluyen las evidencias semanales, enlaces a materiales de apoyo y el d
 
 | **Descripción** | **Link de acceso** |
 |------------------|--------------------|
-| Tutorial 1: Instalación de Unity/Construct/Godot | [Ver tutorial](#) |
+| Tutorial 1: Construir un mundo a través de TileMap| [Ver tutorial](#) |
 | Tutorial 2: Creación de sprites y fondos | [Ver tutorial](#) |
 | Tutorial 3: Programación de controles básicos | [Ver tutorial](#) |
 | Tutorial 4: Sistema de puntuación y vidas | [Ver tutorial](#) |
