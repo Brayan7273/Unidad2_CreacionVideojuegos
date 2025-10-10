@@ -4,8 +4,8 @@
 **Nombre:** Brayan Gael García González  
 **Grupo:** GIDS5102  
 **Materia:** Desarrollo de Aplicaciones Web Progresivas  
-**Unidad:** 2 - Creación de Videojuegos  
-**Docente:** *(agrega el nombre si lo deseas)*  
+**Unidad:** 2 - Programación orientada a objetos para videojuegos  
+**Docente:** BARRON RODRIGUEZ GABRIEL
 
 ---
 
