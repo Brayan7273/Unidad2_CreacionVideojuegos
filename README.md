@@ -106,11 +106,13 @@ A través de escenarios cambiantes, diálogos internos y un guía enigmático, s
 
 | **Descripción** | **Link de acceso** | **Documento** |
 |------------------|--------------------|----------------|
-| Tutorial 1 | [Ver tutorial](#) | [Documento](https://docs.google.com/document/d/1hnf0O7OkzwX0N_4QyoJ9KEJAC5E_TGUt/edit?usp=sharing&ouid=111606551767312159721&rtpof=true&sd=true) |
-| Tutorial 2: Construcción del mundo con TileMap | [Ver tutorial](#) | [Documento](#) |
-| Tutorial 3: Programación de controles básicos | [Ver tutorial](#) | [Documento](#) |
-| Tutorial 4: Sistema de puntuación y vidas | [Ver tutorial](#) | [Documento](#) |
-| Tutorial 5: Publicación del videojuego | [Ver tutorial](#) | [Documento](#) |
+| Tutorial 1 Player Animations 2D Tutorial 01 | [Video Evidencia](https://drive.google.com/file/d/10cZQraK0c_UQXSlpRucbGWayMASCEDMO/view?usp=drive_link) | [Documento](https://docs.google.com/document/d/1hnf0O7OkzwX0N_4QyoJ9KEJAC5E_TGUt/edit?usp=sharing&ouid=111606551767312159721&rtpof=true&sd=true) |
+| Tutorial 2: Player Animations 2D Tutorial 02 | [Ver tutorial](#) | [Documento](#) |
+| Tutorial 3: Player Animations 2D Tutorial 03 | [Ver tutorial](#) | [Documento](#) |
+| Tutorial 4: Player Animations 2D Tutorial 04 | [Ver tutorial](#) | [Documento](#) |
+| Tutorial 5: Player Animations 2D Tutorial 05 | [Ver tutorial](#) | [Documento](#) |
+| Tutorial 5: Player Animations 2D Tutorial 06 | [Ver tutorial](#) | [Documento](#) |
+| Tutorial 5: Player Animations 2D Tutorial 07 | [Ver tutorial](#) | [Documento](#) |
 
 ---
 
