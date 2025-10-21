@@ -111,8 +111,8 @@ A través de escenarios cambiantes, diálogos internos y un guía enigmático, s
 | Tutorial 3: Player Animations 2D Tutorial 03 | [Ver tutorial](#) | [Documento](#) |
 | Tutorial 4: Player Animations 2D Tutorial 04 | [Ver tutorial](#) | [Documento](#) |
 | Tutorial 5: Player Animations 2D Tutorial 05 | [Ver tutorial](#) | [Documento](#) |
-| Tutorial 5: Player Animations 2D Tutorial 06 | [Ver tutorial](#) | [Documento](#) |
-| Tutorial 5: Player Animations 2D Tutorial 07 | [Ver tutorial](#) | [Documento](#) |
+| Tutorial 6: Player Animations 2D Tutorial 06 | [Ver tutorial](#) | [Documento](#) |
+| Tutorial 7: Player Animations 2D Tutorial 07 | [Ver tutorial](#) | [Documento](#) |
 
 ---
 
