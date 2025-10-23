@@ -107,12 +107,12 @@ A través de escenarios cambiantes, diálogos internos y un guía enigmático, s
 | **Descripción** | **Link de acceso** | **Documento** |
 |------------------|--------------------|----------------|
 | Tutorial 1 Player Animations 2D Tutorial 01 | [Video Evidencia](https://drive.google.com/file/d/10cZQraK0c_UQXSlpRucbGWayMASCEDMO/view?usp=drive_link) | [Documento](https://docs.google.com/document/d/1hnf0O7OkzwX0N_4QyoJ9KEJAC5E_TGUt/edit?usp=sharing&ouid=111606551767312159721&rtpof=true&sd=true) |
-| Tutorial 2: Player Animations 2D Tutorial 02 | [Ver tutorial](#) | [Documento](#) |
-| Tutorial 3: Player Animations 2D Tutorial 03 | [Ver tutorial](#) | [Documento](#) |
-| Tutorial 4: Player Animations 2D Tutorial 04 | [Ver tutorial](#) | [Documento](#) |
-| Tutorial 5: Player Animations 2D Tutorial 05 | [Ver tutorial](#) | [Documento](#) |
-| Tutorial 6: Player Animations 2D Tutorial 06 | [Ver tutorial](#) | [Documento](#) |
-| Tutorial 7: Player Animations 2D Tutorial 07 | [Ver tutorial](#) | [Documento](#) |
+| Tutorial 2: Player Animations 2D Tutorial 02 | [Video Evidencia](https://drive.google.com/file/d/15AGKGWw3Hyx5haZ9S2gdsKC_yAvoJuZJ/view?usp=drive_link) | [Documento](https://docs.google.com/document/d/1E4x3tLLmXkF8bE1iiblu_M5Qfy3SLDcX/edit?usp=drive_link&ouid=111606551767312159721&rtpof=true&sd=true) |
+| Tutorial 3: Player Animations 2D Tutorial 03 | [Video Evidencia](https://drive.google.com/file/d/1iKMaVLKWyLfx5KAPjuELEeQiI2Al7u59/view?usp=drive_link) | [Documento](https://docs.google.com/document/d/1WqllDKdIyg7UcKFYQ61yRoOEtR-WN6Ju/edit?usp=drive_link&ouid=111606551767312159721&rtpof=true&sd=true) |
+| Tutorial 4: Player Animations 2D Tutorial 04 | [Video Evidencia](#) | [Documento](#) |
+| Tutorial 5: Player Animations 2D Tutorial 05 | [Video Evidencia](#) | [Documento](#) |
+| Tutorial 6: Player Animations 2D Tutorial 06 | [Video Evidencia](#) | [Documento](#) |
+| Tutorial 7: Player Animations 2D Tutorial 07 | [Video Evidencia](#) | [Documento](#) |
 
 ---
 
