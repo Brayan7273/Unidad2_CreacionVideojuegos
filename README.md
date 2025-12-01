@@ -1,7 +1,7 @@
 # 🎮 Unidad2_CreacionVideojuegos
 
 ## 👤 Datos del autor
-**Nombre:** Brayan Gael García González  
+**Nombre:** Brayan Gael García González  y Martínez Rodríguez Fernando 
 **Grupo:** GIDS5102  
 **Materia:** Desarrollo de Aplicaciones Web Progresivas  
 **Unidad:** 2 - Programación orientada a objetos para videojuegos  
@@ -44,9 +44,16 @@ A través de escenarios cambiantes, diálogos internos y un guía enigmático, s
 
 ---
 
+## Aspectos legales del videojuego 
+El desarrollo de Umbral considera diversos aspectos legales que garantizan el uso adecuado de recursos, el respeto a la propiedad intelectual y la protección de los derechos de los usuarios. Esta sección establece los lineamientos jurídicos que guían la creación, distribución y publicación del videojuego. Link de acceso al documento detallado de los aspectos legales.
+
+[Ver documento](https://drive.google.com/file/d/1ZQWG4hDcl1fWEvrTouN3QzYbR6_2tOlS/view?usp=sharing)
+
+---
+
 ## 🧠 Mecánicas de juego
 
-- **Exploración en tercera persona:** recorrer entornos distorsionados.  
+- **Exploración en primera persona:** recorrer entornos distorsionados.  
 - **Puzzles y laberintos:** representar la confusión mental.  
 - **Efectos visuales y sonoros:** distorsiones que simulan la pérdida de percepción.  
 - **Decisiones morales:** elegir entre consumir o resistir → el final varía según las elecciones.  
@@ -61,8 +68,7 @@ A través de escenarios cambiantes, diálogos internos y un guía enigmático, s
 | 1 | **Curiosidad** | El mundo parece atractivo, pero oculta peligros. |
 | 2 | **Consumo** | La realidad comienza a distorsionarse; los controles se vuelven inestables. |
 | 3 | **Desrealización** | Laberintos, ecos, pérdida del tiempo y del espacio. |
-| 4 | **Consecuencias** | Aislamiento, culpa y daño a las relaciones. |
-| 5 | **Recuperación** | Pruebas mentales que simbolizan la superación del consumo. |
+| 4 | **Consecuencias y recuperacion** | Sensacion de persecucion y soledad. |
 
 ---
 
@@ -73,7 +79,6 @@ A través de escenarios cambiantes, diálogos internos y un guía enigmático, s
 | **Protagonista** | Un joven atrapado entre la realidad y la ilusión. Su objetivo es escapar del mundo mental en que está atrapado. |
 | **Guía** | Entidad simbólica (la conciencia o un amigo) que brinda pistas y apoyo. |
 | **Enemigos** | Sombras, ilusiones y falsos caminos que representan los efectos de las drogas. |
-| **NPCs** | Personajes que muestran las consecuencias sociales y emocionales del consumo. |
 
 ---
 
@@ -114,14 +119,4 @@ A través de escenarios cambiantes, diálogos internos y un guía enigmático, s
 | Tutorial 6: Player Animations 2D Tutorial 06 | [Video Evidencia](#) | [Documento](#) |
 | Tutorial 7: Player Animations 2D Tutorial 07 | [Video Evidencia](#) | [Documento](#) |
 
----
 
-## 💾 Recursos y materiales del videojuego
-
-| **Descripción** | **Link de acceso** | **Documento** |
-|------------------|--------------------|----------------|
-| Documento de diseño del videojuego (GDD) | [Ver documento](#) | [Archivo PDF](#) |
-| Recursos gráficos y sonoros | [Descargar aquí](#) | [Listado de recursos](#) |
-| Código fuente del videojuego | [Repositorio o carpeta](#) | [Documento técnico](#) |
-| Demo o gameplay en video | [Ver video](#) | [Guion o storyboard](#) |
-| Versión final ejecutable | [Descargar o jugar aquí](#) | [Manual del jugador](#) |
